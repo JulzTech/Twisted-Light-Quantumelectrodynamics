@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 12 23:31:50 2021
 
-@author: julsi
+@author: j=JulzTech
 """
 
 # Imports, initialisations, and physical constants
