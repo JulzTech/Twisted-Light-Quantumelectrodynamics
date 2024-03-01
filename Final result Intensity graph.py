@@ -2,7 +2,7 @@
 """
 Created on Thu May 20 13:11:37 2021
 
-@author: julsi
+@author: JulzTech
 """
 
 # Import math functions
